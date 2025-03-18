@@ -1,7 +1,5 @@
 # Transport-Billing-System
 
-## Mass Transit Billing System
-
 ## Description:
 This python script calculates the monthly fare totals for users of a mass transit system based on their journey data. It processes user journeys, determines the fare for each journey (based on entry and exit zones), and applies daily and monthly caps. This script reads journey and zone data from the CSV files and writes the monthly fare totals for each user to a specified output CSV file.
 
